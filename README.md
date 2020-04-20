@@ -1,4 +1,4 @@
-# Conjury.io Issue
+# Conjury.io Issues
 
 This repo is for managing issues and feature requests for the conjury.io platform.
 
